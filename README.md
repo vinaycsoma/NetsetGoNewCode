@@ -1,4 +1,5 @@
 NetsetGo Web Application
+
 NetsetGo is a web application designed to facilitate the creation and management of alarms for emergency and critical situations. Whether you're monitoring a facility, managing a team, or ensuring safety in various environments, NetsetGo provides a user-friendly interface to create, configure, and respond to alarms effectively.
 
 Features
